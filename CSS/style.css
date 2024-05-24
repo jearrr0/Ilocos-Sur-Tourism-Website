@@ -1,0 +1,21 @@
+body {
+  background-color: aqua !important;
+  }
+  .navbar navbar-expand-lg{
+    position: sticky;
+    top: 0%;
+  }
+  h1{
+    text-align: center;
+    font-size: 3rem;
+    font-weight:bolder;
+  }
+  img{
+    width: 20%;
+    height: auto;
+    max-width: 25vw;
+    max-height: calc(25vw * 4/3);
+  }
+  p{
+    font-size: larger;
+  }
